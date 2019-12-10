@@ -1,1 +1,3 @@
-to jest plik tekstowy
+To jest nowy plik, zupe³nie inny od tamtego
+
+teraz jest w nim druga linia
